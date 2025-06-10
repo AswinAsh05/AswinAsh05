@@ -1,47 +1,43 @@
-# Hi there, I'm Aswin! 👋  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AswinM)  
+# ⚡ Aswin M | Tech Explorer 🚀  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32)
 
-### 💻 Electronics and Communication Engineer | Frontend Developer | Data Visualization Enthusiast  
+## 🛠 Tech Stack & Skills
+### 🔥 Core Expertise
+- 🌐 **Frontend Development:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+- 📊 **Data Visualization:** Power BI | Dashboard Design
+- ⚙️ **Embedded Systems:** Embedded C, Sensors & Automation
 
-🚀 Welcome to my GitHub profile! I'm a passionate **problem solver** and **tech enthusiast**, specializing in **Frontend Web Development**, **Data Visualization using Power BI**, and **Embedded C**.
+### 🔗 Tools & Technologies
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)  
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-gray?style=flat-square)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
 ---
 
-### 🚀 Tech Stack & Skills:
-🌐 **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-📊 **Data Visualization:** Power BI  
-⚙️ **Embedded Systems:** Embedded C, Sensors & Automation  
-🔍 **Other:** Problem-solving, System Design, Project Development  
-
----
-
-### 🔥 Projects & Work:
-🎯 **Pyro Shield:** Multi-Sensor Flame Detection & Suppression System  
+## 📂 Featured Projects  
+🌟 **Pyro Shield:** Multi-Sensor Fire Detection & Suppression 🔥  
 🤖 **Obstacle Avoidance & Track Following Robot**  
 🚗 **Accident Prevention System Using Eye Blink & Alcohol Sensors**  
-🌐 **Various Web Development & Visualization Projects**  
+
+> **💡 “Innovation is seeing what everybody has seen and thinking what nobody has thought.”**  
 
 ---
 
-### 🏆 Certifications & Achievements:
-🏅 Presented **Pyro Shield** project at **ICCICCT 2025 International Conference**  
-💬 **Youth Parliament** Participant (2018)  
-💡 Completed Internships in **Embedded Systems Development** & **IoT Solutions**  
+## 📊 GitHub Stats & Activity
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=AswinM&show_icons=true&theme=radical" /></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinM&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
-### ✨ GitHub Stats & Activity:
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswinM&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinM&layout=compact)  
-⚡ **Fun Fact:** I love **exploring new technologies** & turning ideas into reality!  
-
----
-
-### 📫 How to reach me:
+## 📬 Connect with Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/aswinm) _(Add your profile link here)_  
 📧 **Email:** aswinash301102@gmail.com  
 📱 **Phone:** +91 9080984963  
-📬 [LinkedIn](https://www.linkedin.com/in/aswinash05) 
 
 ---
 
-🛠️ **Let's collaborate & build something amazing together!** 🚀  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
