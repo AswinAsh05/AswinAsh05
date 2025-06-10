@@ -24,7 +24,7 @@
 ---
 
 ## 📬 Connect with Me  
-🌐 [LinkedIn](https://www.linkedin.com/in/aswinm) _(Add your profile link here)_  
+🌐 [LinkedIn](https://www.linkedin.com/in/aswinash05)  
 📧 **Email:** aswinash301102@gmail.com  
 📱 **Phone:** +91 9080984963  
 
