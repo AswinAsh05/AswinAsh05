@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate problem solver and tech enthusias
 ### 📫 How to reach me:
 📧 aswinash301102@gmail.com  
 📱 +91 9080984963  
-📬 [LinkedIn]((https://www.linkedin.com/in/aswinash05)) 
+📬 [LinkedIn](https://www.linkedin.com/in/aswinash05)) 
 
 ---
 
