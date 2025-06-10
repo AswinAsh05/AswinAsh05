@@ -23,16 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=AswinM&show_icons=true&theme=radical" /></td>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinM&theme=dark" /></td>
-  </tr>
-</table>
-
----
-
 ## 📬 Connect with Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/aswinm) _(Add your profile link here)_  
 📧 **Email:** aswinash301102@gmail.com  
