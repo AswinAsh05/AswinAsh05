@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AswinAsh05/your-repo-name/blob/main/assets/github_gif.gif?raw=true" width="700" alt="Tech Vibes GIF">
+  <img src="https://github.com/AswinAsh05/AswinAsh05/blob/main/assets/github_gif.gif" width="700" alt="Tech Vibes GIF">
 </p>
 
 <h1 align="center">⚡ Aswin M | Tech Explorer 🚀</h1>
