@@ -53,10 +53,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinAsh05&layout=compact&theme=radical" /><br>
-  <img src="https://streak-stats.demolab.com?user=AswinAsh05&theme=radical" />
-</p>
+  </p>
 
 ---
 
