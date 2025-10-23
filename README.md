@@ -19,23 +19,6 @@ I love creating smart solutions that bridge hardware and data to make automation
 **Tools:** Power BI, Arduino, Excel, Git  
 **Domains:** IoT, Embedded Systems, Data Analysis  
 
----
-
-### 📂 Featured Projects
-- 🔥 [**PYRO SHIELD: Multi Sensor Flame Detection and Suppression**](https://github.com/yourusername/PyroShield)  
-  A fully embedded fire detection and suppression system designed for firework factories using Arduino UNO, GSM module, and sensors for real-time fire monitoring and response.  
-
-- ⚙️ [**Smart Home IoT Automation System**](https://github.com/yourusername/SmartHome-IoT)  
-  Home automation system integrating multiple sensors for temperature, motion, and light, enabling intelligent device control.  
-
-- 📊 [**Data Insights Dashboard using Power BI**](https://github.com/yourusername/DataDashboard)  
-  A Power BI dashboard designed to visualize and analyze performance metrics for business and IoT data streams.  
-
----
-
-### 🧩 GitHub Stats
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinash&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinash&layout=compact&theme=radical)
 
 ---
 
