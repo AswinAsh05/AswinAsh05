@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFCC&center=true&vCenter=true&width=700&lines=👋+Hey+there,+I'm+Ash!;Electronics+and+Communication+Engineer;IoT+%7C+Embedded+Systems+%7C+Data+Engineering+%7C+Frontend+Dev;Innovating+Automation+through+Technology⚙️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFCC&center=true&vCenter=true&width=700&lines=+Hey+there,+I'm+Ash!;Electronics+and+Communication+Engineer;IoT+%7C+Embedded+Systems+%7C+Data+Engineering+%7C+Frontend+Dev;Innovating+Automation+through+Technology⚙️" />
 </p>
 
 ---
