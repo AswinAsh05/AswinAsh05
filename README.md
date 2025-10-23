@@ -20,14 +20,6 @@
 
 ---
 
-### ⚙️ Tech Pulse
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinash&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinash&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 💡 Project Sparks
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aswinash&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
@@ -40,12 +32,6 @@
   <a href="https://instagram.com/aswin__ash__05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aswinash301102@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/aswinash/aswinash/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
