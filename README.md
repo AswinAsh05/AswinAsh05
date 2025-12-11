@@ -15,8 +15,8 @@
 
 ### 🧠 Skills
 **Languages:** C, Python, SQL, HTML, CSS, JS  
-**Tools:** Power BI, Arduino, Excel, Git  
-**Domains:** IoT, Embedded Systems, Data Analysis  
+**Tools:** KiCad, Power BI, Arduino IDE, Git  
+**Domains:** IoT, Embedded Systems, Data Analysis, Frontend Development  
 
 ---
 
