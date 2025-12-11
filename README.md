@@ -20,13 +20,6 @@
 
 ---
 
-### 💡 Project Sparks
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinash&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://instagram.com/aswin__ash__05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
