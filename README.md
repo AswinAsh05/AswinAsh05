@@ -6,17 +6,17 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.E. in Electronics and Communication Engineering (St. Xavier’s Catholic College of Engineering)  
-- 💡 Passionate in IoT, Embedded Systems, Data Visualization, Frontend Development & PCB designing  
+- 🎓 Electronics and Communication Engineering Graduate
+- 💡 Passionate in Robotics, IoT, Embedded Systems, PCB designing, Frontend Development & Data Visualization
 - 💻 Currently exploring **Data Engineering** and **Automation Systems**  
 - ⚡ Always curious to learn, innovate, and build impactful technology  
 
 ---
 
 ### 🧠 Skills
-**Languages:** C, Python, SQL, HTML, CSS, JS  
-**Tools:** KiCad, Power BI, Arduino IDE, Git  
-**Domains:** IoT, Embedded Systems, Data Analysis, Frontend Development  
+**Languages:** Embedded C, C, Python, SQL, HTML, CSS, JS  
+**Tools:** KiCad, Autodesk Fusion 360, Power BI, Arduino IDE, Git, Visual Studio Code 
+**Domains:** Robotics, IoT, Embedded Systems, Data Analysis, Frontend Development  
 
 ---
 
