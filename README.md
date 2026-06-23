@@ -8,14 +8,14 @@
 ### 🚀 About Me
 - 🎓 Electronics and Communication Engineering Graduate
 - 💡 Passionate in Robotics, IoT, Embedded Systems, PCB designing, Frontend Development & Data Visualization
-- 💻 Currently exploring **Data Engineering** and **Automation Systems**  
+- 💻 Currently exploring **Robotics** and **Automation Systems**  
 - ⚡ Always curious to learn, innovate, and build impactful technology  
 
 ---
 
 ### 🧠 Skills
 **Languages:** Embedded C, C, Python, SQL, HTML, CSS, JS  
-**Tools:** KiCad, Autodesk Fusion 360, Power BI, Arduino IDE, Git, Visual Studio Code 
+**Tools:** ROS/ROS2, Gazebo, KiCad, Autodesk Fusion 360, Power BI, Arduino IDE, Git, Visual Studio Code 
 **Domains:** Robotics, IoT, Embedded Systems, Data Analysis, Frontend Development  
 
 ---
