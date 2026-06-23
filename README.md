@@ -1,32 +1,86 @@
-<!-- Typing Animation Header -->
+<!-- CYBER ROBOTICS PROFILE -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFCC&center=true&vCenter=true&width=700&lines=+Hey+there,+I'm+Ash!;Electronics+and+Communication+Engineer;Embedded+Systems+|+Data+Engineering;IoT+|+Frontend+Dev;Innovating+Automation+through+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ASH.EXE+INITIALIZED;ROBOTICS+ENGINEER+LOADING...;ROS2+%7C+EMBEDDED+SYSTEMS+%7C+AUTOMATION;BUILDING+THE+FUTURE+ONE+ROBOT+AT+A+TIME" />
+</p>
+
+<h1 align="center">⚡ ASH // ROBOTICS ENGINEER IN PROGRESS ⚡</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-ROBOTICS-00C3FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-UPGRADING-FFAA00?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Electronics and Communication Engineering Graduate
-- 💡 Passionate in Robotics, IoT, Embedded Systems, PCB designing, Frontend Development & Data Visualization
-- 💻 Currently exploring **Robotics** and **Automation Systems**  
-- ⚡ Always curious to learn, innovate, and build impactful technology  
+## 🎮 PLAYER PROFILE
+
+```yaml
+Name: Ash
+Class: Electronics & Communication Engineer
+Specialization: Robotics & Autonomous Systems
+Current Quest: ROS2 Mastery
+Guild: PixelBotix Robotics Lab
+Future Role: Robotics Engineer
+```
 
 ---
 
-### 🧠 Skills
-**Languages:** Embedded C, C, Python, SQL, HTML, CSS, JS  
-**Tools:** ROS/ROS2, Gazebo, KiCad, Autodesk Fusion 360, Power BI, Arduino IDE, Git, Visual Studio Code 
-**Domains:** Robotics, IoT, Embedded Systems, Data Analysis, Frontend Development  
+## ⚔️ SKILL TREE
+
+🟦 Embedded C
+🟦 Python
+🟦 ROS2
+🟦 Gazebo
+🟦 RViz2
+🟦 IoT
+🟦 PCB Design (KiCad)
+🟦 Git & GitHub
+🟦 Power BI
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 ACTIVE MISSIONS
+
+✔ Master ROS2
+
+✔ Autonomous Mobile Robot Navigation
+
+✔ LiDAR & SLAM
+
+✔ Robot Simulation using Gazebo
+
+✔ Embedded Robotics Development
+
+🔒 Robotics Engineer
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+🥇 ECE Graduate
+
+🥇 PYRO SHIELD Fire Detection System
+
+🥇 ROS2 & Autonomous Robotics Training
+
+🥇 PixelBotix Robotics Intern
+
+---
+
+## 🌐 NETWORK TERMINAL
+
+💼 LinkedIn: [www.linkedin.com/in/aswinash05](http://www.linkedin.com/in/aswinash05)
+
+💻 GitHub: github.com/AswinAsh05
+
+📧 Email: [aswinash301102@gmail.com](mailto:aswinash301102@gmail.com)
+
+---
+
 <p align="center">
-  <a href="https://instagram.com/ashton_wing"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aswinash05/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aswinash301102@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+⚡ "From Electronics Engineer to Robotics Engineer — Mission in Progress." ⚡
+
 </p>
-
----
-
-⭐️ *“Building technology that makes a difference.”*
